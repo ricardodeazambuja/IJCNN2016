@@ -1,0 +1,4 @@
+1) The module / notebooks need to have the save2file variable.
+
+- Create a module for the IJCNN simulations because I'm repeating things in a lot of differents notebooks.
+- Think how to sell the idea of using my system to train the robot instead of joint recorder or rosbag.
