@@ -26,7 +26,7 @@ https://github.com/ricardodeazambuja/LiquidStateMachine-Python
 Python scripts in general:  
 https://github.com/ricardodeazambuja/Python-UTILS
 
-V-REP simulator:
+V-REP simulator:  
 http://www.coppeliarobotics.com/downloads.html
 
 
