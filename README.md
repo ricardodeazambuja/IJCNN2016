@@ -1,4 +1,5 @@
 # Experiments used for the paper submitted to IJCNN2016
+# Diverse, Noisy and Parallel: a New Spiking Neural Network Approach for Humanoid Robot Control
 
 ## The trajectories are always closed shapes (otherwise the initial and final values are different and the signal conditioning must be changed)
 
