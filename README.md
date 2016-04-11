@@ -1,6 +1,7 @@
 # Experiments used for the paper submitted to IJCNN2016
 # Diverse, Noisy and Parallel: a New Spiking Neural Network Approach for Humanoid Robot Control
-## - This work has been accepted for presentation at the [IJCNN 2016 - IEEE WCCI 2016](http://www.wcci2016.org/)...  **And has been selected for oral presentation!!!**
+## - This work has been accepted for presentation at the [IJCNN 2016 - IEEE WCCI 2016](http://www.wcci2016.org/)  
+## And has been selected for oral presentation!!!
 
 ## The trajectories are always closed shapes (otherwise the initial and final values are different and the signal conditioning must be changed)
 
