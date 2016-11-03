@@ -33,7 +33,11 @@ Python scripts in general:
 https://github.com/ricardodeazambuja/Python-UTILS
 
 V-REP simulator:  
-http://www.coppeliarobotics.com/downloads.html
+http://www.coppeliarobotics.com/downloads.html  
+  
+  
+Preprint:
+https://github.com/ricardodeazambuja/IJCNN2016/blob/master/IJCNN2016_preprint.pdf
 
 
 
