@@ -25,7 +25,7 @@ How exactly our brain works is still an open question, but one thing seems to be
 OBS:  
 
 BEE SNN simulator:  
-https://github.com/ricardodeazambuja/LiquidStateMachine-Python
+https://github.com/ricardodeazambuja/BEE
 
 Python scripts in general:  
 https://github.com/ricardodeazambuja/Python-UTILS
