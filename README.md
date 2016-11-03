@@ -1,10 +1,8 @@
-# Experiments used for the paper submitted to IJCNN2016
+# Experiments used for the paper ~~submitted to~~ presented at [IJCNN2016 / IEEE WCCI 2016](http://www.wcci2016.org/)
 # Diverse, Noisy and Parallel: a New Spiking Neural Network Approach for Humanoid Robot Control
 
 ## Abstract:
 How exactly our brain works is still an open question, but one thing seems to be clear: biological neural systems are computationally powerful, robust and noisy. Using the Reservoir Computing paradigm based on Spiking Neural Networks, also known as Liquid State Machines, we present results from a novel approach where diverse and noisy parallel reservoirs, totalling 3,000 modelled neurons, work together receiving the same averaged feedback. Inspired by the ideas of action learning and embodiment we use the safe and flexible industrial robot BAXTER in our experiments. The robot was taught to draw three different 2D shapes on top of a desk using a total of four joints. Together with the parallel approach, the same basic system was implemented in a serial way to compare it with our new method. The results show our parallel approach enables BAXTER to produce the trajectories to draw the learned shapes more accurately than the traditional serial one.
-
-## - This work has been accepted for presentation at the [IJCNN 2016 / IEEE WCCI 2016](http://www.wcci2016.org/)... and has been selected for oral presentation!!!
 
 ## The trajectories are always closed shapes (otherwise the initial and final values are different and the signal conditioning must be changed)
 
