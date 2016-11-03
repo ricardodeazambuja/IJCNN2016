@@ -36,7 +36,7 @@ V-REP simulator:
 http://www.coppeliarobotics.com/downloads.html  
   
   
-Preprint:
+Preprint version:  
 https://github.com/ricardodeazambuja/IJCNN2016/blob/master/IJCNN2016_preprint.pdf
 
 
