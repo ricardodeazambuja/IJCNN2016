@@ -25,7 +25,10 @@ How exactly our brain works is still an open question, but one thing seems to be
 OBS:  
 
 BEE SNN simulator:  
-https://github.com/ricardodeazambuja/BEE
+https://github.com/ricardodeazambuja/BEE  
+
+Dynamic Time Warping:  
+https://github.com/ricardodeazambuja/DTW
 
 Python scripts in general:  
 https://github.com/ricardodeazambuja/Python-UTILS
