@@ -40,6 +40,15 @@ http://www.coppeliarobotics.com/downloads.html
 Preprint version:  
 https://github.com/ricardodeazambuja/IJCNN2016/blob/master/IJCNN2016_preprint.pdf
 
+Bibtex citation:
+https://github.com/ricardodeazambuja/ricardodeazambuja.github.io/raw/master/public/citations/de_azambuja_diverse_2016.bib
 
+Final IEEE Xplore version:  
+http://ieeexplore.ieee.org/document/7727325/
+
+Related works:  
+https://github.com/ricardodeazambuja/ICONIP2016  
+https://github.com/ricardodeazambuja/IJCNN2017  
+https://github.com/ricardodeazambuja/IJCNN2017-2  
 
 
