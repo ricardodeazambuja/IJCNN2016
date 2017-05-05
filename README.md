@@ -50,5 +50,6 @@ Related works:
 https://github.com/ricardodeazambuja/ICONIP2016  
 https://github.com/ricardodeazambuja/IJCNN2017  
 https://github.com/ricardodeazambuja/IJCNN2017-2  
+https://github.com/ricardodeazambuja/I2MTC2017-LSMFusion
 
 
