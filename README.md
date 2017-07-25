@@ -22,31 +22,30 @@ How exactly our brain works is still an open question, but one thing seems to be
 - BEE_Simulator_ArmControl_VREP_LSM_DATA-TESTER.ipynb
 
 
-OBS:  
+## OBS:  
 
-BEE SNN simulator:  
+### BEE SNN simulator:  
 https://github.com/ricardodeazambuja/BEE  
 
-Dynamic Time Warping:  
+### Dynamic Time Warping:  
 https://github.com/ricardodeazambuja/DTW
 
-Python scripts in general:  
+### Python scripts in general:  
 https://github.com/ricardodeazambuja/Python-UTILS
 
-V-REP simulator:  
+### V-REP simulator:  
 http://www.coppeliarobotics.com/downloads.html  
   
-  
-Preprint version:  
+### Preprint version:  
 https://github.com/ricardodeazambuja/IJCNN2016/blob/master/IJCNN2016_preprint.pdf
 
-Bibtex citation:
+### Bibtex citation:
 https://github.com/ricardodeazambuja/ricardodeazambuja.github.io/raw/master/public/citations/de_azambuja_diverse_2016.bib
 
-Final IEEE Xplore version:  
+### Final IEEE Xplore version:  
 http://ieeexplore.ieee.org/document/7727325/
 
-Related works:  
+### Related works:  
 https://github.com/ricardodeazambuja/ICONIP2016  
 https://github.com/ricardodeazambuja/IJCNN2017  
 https://github.com/ricardodeazambuja/IJCNN2017-2  
